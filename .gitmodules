@@ -1,0 +1,3 @@
+[submodule "moz-git-tools"]
+	path = moz-git-tools
+	url = https://github.com/mozilla/moz-git-tools
